@@ -1,0 +1,54 @@
+.div1{
+    background-color: rgb(53, 36, 33);
+    width: 400px;
+     height: 650px;
+    display:block;
+    text-align: center;
+    margin-top: 180px;
+    border: 1px solid white;
+  margin-left: 550px;
+}
+.head1{
+    color: white;
+}
+.head2{
+    color: greenyellow;
+}
+body{
+    background-color: black;
+}
+.para1{
+    color: white;
+}
+.btn1{
+   
+}
+.btn1:hover{
+    background-color: greenyellow;
+}
+.links:hover{
+    color: black;
+    background-color: greenyellow;
+}
+.links{
+    color: white;
+    background-color: black;
+     background-color: rgb(74, 74, 74);
+    border-radius: 5px;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.div2{
+    margin-top: 20px;
+    display:grid ;
+        gap: 20px;
+text-align: center;
+justify-content: center;
+
+}
